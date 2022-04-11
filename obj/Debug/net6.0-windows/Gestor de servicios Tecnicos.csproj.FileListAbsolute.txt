@@ -1,0 +1,21 @@
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\bin\Debug\net6.0-windows\Gestor de servicios Tecnicos.exe
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\bin\Debug\net6.0-windows\Gestor de servicios Tecnicos.deps.json
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\bin\Debug\net6.0-windows\Gestor de servicios Tecnicos.runtimeconfig.json
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\bin\Debug\net6.0-windows\Gestor de servicios Tecnicos.dll
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\bin\Debug\net6.0-windows\Gestor de servicios Tecnicos.pdb
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\obj\Debug\net6.0-windows\Gestor de servicios Tecnicos.csproj.AssemblyReference.cache
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\obj\Debug\net6.0-windows\Gestor_de_servicios_Tecnicos.frmMain.resources
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\obj\Debug\net6.0-windows\Gestor_de_servicios_Tecnicos.frmLogin.resources
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\obj\Debug\net6.0-windows\Gestor de servicios Tecnicos.csproj.GenerateResource.cache
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\obj\Debug\net6.0-windows\Gestor de servicios Tecnicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\obj\Debug\net6.0-windows\Gestor de servicios Tecnicos.AssemblyInfoInputs.cache
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\obj\Debug\net6.0-windows\Gestor de servicios Tecnicos.AssemblyInfo.cs
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\obj\Debug\net6.0-windows\Gestor de servicios Tecnicos.csproj.CoreCompileInputs.cache
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\obj\Debug\net6.0-windows\Gestor de servicios Tecnicos.dll
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\obj\Debug\net6.0-windows\refint\Gestor de servicios Tecnicos.dll
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\obj\Debug\net6.0-windows\Gestor de servicios Tecnicos.pdb
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\obj\Debug\net6.0-windows\Gestor de servicios Tecnicos.genruntimeconfig.cache
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\obj\Debug\net6.0-windows\ref\Gestor de servicios Tecnicos.dll
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\obj\Debug\net6.0-windows\Gestor_de_servicios_Tecnicos.Properties.Resources.resources
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\Usuarios\Adrian\Proyectos\Gestor de servicios tecnicos\Gestor de servicios Tecnicos\obj\Debug\net6.0-windows\Gestor de servicios Tecnicos.csproj.CopyComplete
